@@ -1,5 +1,5 @@
-#test
-define Temperature  25
+//test
+#define Temperature  25
 
 void main(void)
 {
